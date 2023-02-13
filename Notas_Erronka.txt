@@ -1,0 +1,5 @@
+1.- contar lineas
+2.- com el split crear un array de la primera linea
+3.- contar el array del split
+4.- crear un array (arr["1º"]["3º"])
+5.- cargar los datos
