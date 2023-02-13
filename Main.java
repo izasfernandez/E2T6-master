@@ -16,7 +16,7 @@ public class Main {
          * }
          */
         taulaGorde("../ErronkaTaulak/BEZERO_DATA_TABLE.tsv");
-    }
+    }ghiufghgdifhg
 
     public static void taulaGorde(String taula) {
         try {
